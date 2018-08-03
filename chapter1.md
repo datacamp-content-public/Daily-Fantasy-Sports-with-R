@@ -1,20 +1,22 @@
 ---
-title: Template Chapter 1
-description: This is a template chapter.
+  title: "Introduction"
+  description: "Introduction here."
 ---
 
 ## An exercise title written in sentence case
 
 ```yaml
-type: NormalExercise
+type: NormalExercise 
 lang: r
-xp: 100
+xp: 100 
 skills: 1
-key: f7209e05a7
+key: 0cf6e42ae4   
 ```
+
 
 This is the assignment text. It should help provide students with the background information needed.
 The instructions that follow should be in bullet point form with clear guidance for what is expected.
+
 
 `@instructions`
 - Instruction 1
